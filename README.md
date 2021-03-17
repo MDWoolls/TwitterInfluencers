@@ -66,5 +66,5 @@
     A new graph for the user will be created and an updated version of follower_power.html will also be created.
 </p>
 
-<h4>External Site: <a href="https://github.com/MDWoolls/TwitterInfluencers">MDWoolls/TwitterInfluencers</a></h4>
+<h4>External Site: <a href="https://github.com/MDWoolls/TwitterInfluencers">MDWoolls/TwitterInfluencers</a> -- needs to be updated when site is running</h4>
 	
