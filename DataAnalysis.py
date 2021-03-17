@@ -14,6 +14,7 @@ import simplejson as json
 output_notebook()
 graph_width = 1200
 
+
 # save_file = f'data/{screen_name}_network.txt'
 
 # file to save the model
@@ -120,7 +121,7 @@ def generate_plot(screen_name, save_file=None, out_file=None, show_graph=True, s
     with open(save_file, 'rb') as fp:
         raw_data = pickle.load(fp)
 
-    n_a = len(raw_data) // 100
+    n_a = len(raw_data) // 120
     data = average_data(raw_data, n_a)
 
     i_max = data['size'].idxmax()
